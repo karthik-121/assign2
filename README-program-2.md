@@ -1,3 +1,8 @@
+PLEASE VIEW IN "RAW" FORMAT TO SEE PROPER FORMAT OF THE TXT FILES
+
+
+
+
 program-2: Weighted Directed Graph Representation
 
 
