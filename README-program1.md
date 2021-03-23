@@ -1,3 +1,6 @@
+PLEASE VIEW IN "RAW" FORMAT TO SEE PROPER FORMAT OF THE TXT FILES
+
+
 Introduction
 In this assignment, you will improve your C programming skills by implementing graph algorithms.
 First, you represent a graph data structure in C by representing undirected and weighted directed
