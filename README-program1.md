@@ -70,3 +70,6 @@ $./first graph.txt query.txt
 A D E
 3
 B C D
+
+We will not give you improperly formatted files. You can assume all your input files will be in
+proper format, as stated above.
