@@ -1,3 +1,5 @@
+PLEASE VIEW IN "RAW" FORMAT TO SEE PROPER FORMAT OF THE TXT FILES
+
 program5: Single-source Shortest Path in a Directed Acyclic Graph (DAG) 
 
 Given a weighted directed graph G=(V,E) and the source vertex s, the single-source shortest path
