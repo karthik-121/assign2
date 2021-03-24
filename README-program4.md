@@ -1,3 +1,5 @@
+PLEASE VIEW IN "RAW" FORMAT TO SEE PROPER FORMAT OF THE TXT FILES
+
 Fourth: Depth-first Search (DFS) 
 
 In this part, you will implement the depth-first search (DFS) graph traversal algorithm. For a given
