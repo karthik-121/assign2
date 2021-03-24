@@ -1,3 +1,5 @@
+PLEASE VIEW IN "RAW" FORMAT TO SEE PROPER FORMAT OF THE TXT FILES
+
 program6: Dijkstra’s Shortest Path Algorithm
 
 In this part, we implement Dijkstra’s Algorithm. This algorithm solves the single-source shortest
